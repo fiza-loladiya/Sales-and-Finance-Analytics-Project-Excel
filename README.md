@@ -30,23 +30,23 @@ This project focuses on transforming raw data into analysis-ready reporting that
 ### 1) P&L for Markets
 ![P&L for Markets](P&L%20Markets.jpg)
 
-### 2) Scenario Planning (Best / Realistic / Worst)
-![Scenario Planning](Croma.jpg)
-
-### 3) Project Priority Matrix
-![Project Priority Matrix](Project%20Priority%20Matrix.jpg)
-
-### 4) P&L by Fiscal Months
+### 2) P&L by Fiscal Months
 ![P&L Fiscal Months](P&L%20Fiscal%20Months.jpg)
 
-### 5) GM% by Quarters (Sub-Zone)
+### 3) GM% by Quarters (Sub-Zone)
 ![GM% by Quarter](GM%20By%20Quarter.jpg)
 
-### 6) Market Performance vs Target
+### 4) Market Performance vs Target
 ![Market Performance vs Target](Market%20Performance%20VS%20Target.jpg)
 
-### 7) Customer Net Sales Performance
+### 5) Customer Net Sales Performance
 ![Customer Net Sales Performance](Customer%20Net%20Sales%20Performance.jpg)
+
+### 6) Scenario Planning (Best / Realistic / Worst)
+![Scenario Planning](Croma.jpg)
+
+### 7) Project Priority Matrix
+![Project Priority Matrix](Project%20Priority%20Matrix.jpg)
 
 
 ## 🔧 Workflow (What I Did)
@@ -89,4 +89,10 @@ This project focuses on transforming raw data into analysis-ready reporting that
 - **Data Visualization** (report-style layout for decision making)
 
 
-└─ README.md
+## 💡 Business Value
+This analysis helps:
+- **Sales teams** identify top customers and growth opportunities
+- **Leadership** monitor performance vs targets across markets
+- **Finance teams** track profitability trends and P&L health
+- **Operations** plan realistically using scenario-based forecasting
+- **Management** prioritize initiatives using the priority matrix
