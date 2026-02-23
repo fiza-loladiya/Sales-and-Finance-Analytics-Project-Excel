@@ -28,25 +28,25 @@ This project focuses on transforming raw data into analysis-ready reporting that
 
 
 ### 1) P&L for Markets
-![P&L for Markets](assets/P&L%20Markets.jpg)
+![P&L for Markets](P&L%20Markets.jpg)
 
 ### 2) Scenario Planning (Best / Realistic / Worst)
-![Scenario Planning](assets/Croma.jpg)
+![Scenario Planning](Croma.jpg)
 
 ### 3) Project Priority Matrix
-![Project Priority Matrix](assets/Project%20Priority%20Matrix.jpg)
+![Project Priority Matrix](Project%20Priority%20Matrix.jpg)
 
 ### 4) P&L by Fiscal Months
-![P&L Fiscal Months](assets/P&L%20Fiscal%20Months.jpg)
+![P&L Fiscal Months](P&L%20Fiscal%20Months.jpg)
 
 ### 5) GM% by Quarters (Sub-Zone)
-![GM% by Quarter](assets/GM%20By%20Quarter.jpg)
+![GM% by Quarter](GM%20By%20Quarter.jpg)
 
 ### 6) Market Performance vs Target
-![Market Performance vs Target](assets/Market%20Performance%20VS%20Target.jpg)
+![Market Performance vs Target](Market%20Performance%20VS%20Target.jpg)
 
 ### 7) Customer Net Sales Performance
-![Customer Net Sales Performance](assets/Customer%20Net%20Sales%20Performance.jpg)
+![Customer Net Sales Performance](Customer%20Net%20Sales%20Performance.jpg)
 
 
 ## 🔧 Workflow (What I Did)
